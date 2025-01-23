@@ -12,6 +12,7 @@ namespace Admin
         //admin controls are defined here
         public static void AdminPanel()
         {
+            //Good
             Logger.LogInfo("Admin Pannel Invoked");
             //instance created for admin class
             AdminControl adminControl = new AdminControl();
