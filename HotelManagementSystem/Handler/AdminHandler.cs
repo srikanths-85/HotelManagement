@@ -19,7 +19,7 @@ namespace Admin
             while (true)
             {
                 Console.WriteLine("\n--- Admin Panel ---");
-                Console.WriteLine("1. View Staffs");
+                Console.WriteLine("1. View Staffs good to go");
                 Console.WriteLine("2. Register Staff/Admin");
                 Console.WriteLine("3. View Active Rooms");
                 Console.WriteLine("4. Edit User Details");
