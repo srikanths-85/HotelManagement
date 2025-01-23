@@ -1,0 +1,5 @@
+{"Timestamp":"2024-12-29T20:51:34.0004710+05:30","Level":"Information","MessageTemplate":"Login Screen Invoked.","Properties":{"SourceContext":"LoginForm.LoginHandler"}}
+{"Timestamp":"2024-12-29T20:51:47.2744101+05:30","Level":"Error","MessageTemplate":"Login Failed. Invalid Credentials","Properties":{"SourceContext":"LoginForm.LoginHandler"}}
+{"Timestamp":"2024-12-29T20:51:56.1652431+05:30","Level":"Error","MessageTemplate":"Login Failed. Invalid Credentials","Properties":{"SourceContext":"LoginForm.LoginHandler"}}
+{"Timestamp":"2024-12-29T20:52:08.3282333+05:30","Level":"Information","MessageTemplate":"Login Successful. Staff Panel Invoked.","Properties":{"SourceContext":"LoginForm.LoginHandler"}}
+{"Timestamp":"2024-12-29T20:52:08.3397586+05:30","Level":"Information","MessageTemplate":"Staff Panel Invoked","Properties":{"SourceContext":"Staff.StaffControls"}}
