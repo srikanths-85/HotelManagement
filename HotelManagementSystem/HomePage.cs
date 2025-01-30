@@ -1,7 +1,7 @@
 using System;
 using LoginForm;
 using HotelManagement.Utilities;
-
+//line addede
 namespace Home
 {
     public class HomePage
